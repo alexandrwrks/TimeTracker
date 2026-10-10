@@ -9,6 +9,9 @@ obj/
 .venv/
 __pycache__/
 *.pyc
+.idea
 
 # Готовые сборки
+*.exe
+# Published desktop builds
 *.exe
