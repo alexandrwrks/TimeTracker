@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Готовые сборки
+*.exe
